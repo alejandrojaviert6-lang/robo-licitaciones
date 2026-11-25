@@ -1,0 +1,5 @@
+streamlit
+pandas
+numpy==1.26.4
+pyarrow==16.1.0
+playwright
